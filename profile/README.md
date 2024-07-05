@@ -7,6 +7,15 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Features](#features)
+- [Demo](#)
+- [AR Feature](#)
+- [AI Feature](#)
+- [Tools](#)
+- [Android Architecture](#)
+- [Backend](#)
+- [Future features and updates](#)
+- [Team members](#)
 
 ## Introduction
 

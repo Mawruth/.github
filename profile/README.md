@@ -66,3 +66,10 @@ Museums have traditionally used static displays and guided tours to showcase cul
 
 
 ## Team members
+
+Meet the amazing team behind this project:
+
+| ![Ahmed Mabrouk](https://github.com/AhmedMabrouk22.png?size=100) | ![Abdullah Aly](https://github.com/PandaX185.png?size=100) | ![Backend Developer](https://github.com/Elsharaky.png?size=100) |
+|:--:|:--:|:--:|
+| [**Ahmed Mabrouk**](https://github.com/AhmedMabrouk22) | [**Abdullah Aly**](https://github.com/PandaX185) | [**Backend Developer**](https://github.com/Elsharaky) |
+| Backend Developer | Backend Developer | Backend Developer |

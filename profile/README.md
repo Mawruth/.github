@@ -17,9 +17,11 @@
 - [Future features and updates](#)
 - [Team members](#)
 
-## Introduction
 
+
+## Introduction
 Museums have traditionally used static displays and guided tours to showcase cultural heritage, but these methods offer limited interactivity and contextual information. With AI and AR technologies, museums can now create more engaging and immersive experiences. This project aims to enhance museum visits by integrating AI for object identification and AR for real-time display, along with virtual tours for remote exploration. The motivation is to offer a more interactive and informative experience compared to traditional methods. Visitors often struggle to choose destinations and make the most of their visits without guides, and traditional museums lack interactive visual experiences. While offering such experiences at home is desirable, the high cost of necessary hologram technology makes it prohibitive for both museums and visitors.
+
 
 ## Features
 - User Management
@@ -40,3 +42,27 @@ Museums have traditionally used static displays and guided tours to showcase cul
   - Access AR Content: Access AR content like 3D models, animations, or audio guides by scanning pieces.
   - Rate and Review: Review museum pieces and museums, and share feedback with other users.
   - Virtual Tours: Integrated with the Islamic Museum site to provide a VR-like tour inside the museum.
+ 
+
+## Demo
+
+
+## AR Feature
+
+
+## AI Feature
+
+
+## Tools
+
+
+## Android Architecture
+
+
+## Backend
+
+
+## Future features and updates
+
+
+## Team members

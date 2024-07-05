@@ -69,7 +69,12 @@ Museums have traditionally used static displays and guided tours to showcase cul
 
 Meet the amazing team behind this project:
 
-| ![Ahmed Mabrouk](https://github.com/AhmedMabrouk22.png?size=100) | ![Abdullah Aly](https://github.com/PandaX185.png?size=100) | ![Backend Developer](https://github.com/Elsharaky.png?size=100) |
+| ![Ahmed Mabrouk](https://github.com/AhmedMabrouk22.png?size=100) | ![Abdullah Aly](https://github.com/PandaX185.png?size=100) | ![Mohamed Elsharaky](https://github.com/Elsharaky.png?size=100) |
 |:--:|:--:|:--:|
-| [**Ahmed Mabrouk**](https://github.com/AhmedMabrouk22) | [**Abdullah Aly**](https://github.com/PandaX185) | [**Backend Developer**](https://github.com/Elsharaky) |
+| [**Ahmed Mabrouk**](https://github.com/AhmedMabrouk22) | [**Abdullah Aly**](https://github.com/PandaX185) | [**Mohamed Elsharaky**](https://github.com/Elsharaky) |
 | Backend Developer | Backend Developer | Backend Developer |
+
+| ![MohamedElattar22](https://github.com/MohamedElattar22.png?size=100) | ![Abdelrahman Mohamed](https://github.com/abdelrahmanz3z3.png?size=100) | ![Asem Hisham](https://github.com/asemhisham20.png?size=100) |
+|:--:|:--:|:--:|
+| [**MohamedElattar22**](https://github.com/MohamedElattar22) | [**Abdelrahman Mohamed**](https://github.com/abdelrahmanz3z3) | [**Asem Hisham**](https://github.com/asemhisham20) |
+| Android Developer | Android Developer | Android Developer |

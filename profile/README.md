@@ -8,7 +8,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#deom)
 - [AR Feature](#ar-feature)
 - [AI Feature](#ai-feature)
 - [Tools](#tools)
@@ -43,9 +42,6 @@ Museums have traditionally used static displays and guided tours to showcase cul
   - Rate and Review: Review museum pieces and museums, and share feedback with other users.
   - Virtual Tours: Integrated with the Islamic Museum site to provide a VR-like tour inside the museum.
  
-
-## Demo
-
 
 ## AR Feature
 

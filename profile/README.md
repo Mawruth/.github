@@ -42,9 +42,6 @@ Museums have traditionally used static displays and guided tours to showcase cul
   - Virtual Tours: Integrated with the Islamic Museum site to provide a VR-like tour inside the museum.
  
 
-## AR Feature
-
-
 ## AI Feature
 
 Integrated AI interfaces to provide an image classification model. Built with Python, FastAPI, Tensorflow

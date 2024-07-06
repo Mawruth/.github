@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Demo](#deom)
-- [AR Feature](#)
+- [AR Feature](#ar-feature)
 - [AI Feature](#ai-feature)
 - [Tools](#tools)
 - [Android Architecture](#android-architecture)
@@ -63,7 +63,7 @@ Integrated AI interfaces to provide an image classification model. Built with Py
   - PostgreSQL
   - Prisma
   - Docker
-  - Auzer for cloud
+  - Azure for cloud
 
 ### Android 
   - Kotlin

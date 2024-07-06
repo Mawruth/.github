@@ -8,7 +8,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [AR Feature](#ar-feature)
 - [AI Feature](#ai-feature)
 - [Tools](#tools)
 - [Android Architecture](#android-architecture)
